@@ -1,4 +1,4 @@
-module github.com/DoubleRui/gomall-microservices-proto
+module github.com/DoubleRu1/gomall-microservices-proto
 
 go 1.23.2
 
