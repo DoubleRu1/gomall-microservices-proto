@@ -7,7 +7,7 @@
 package order
 
 import (
-	cart "github.com/DoubleRu1/gomall-microservices/cart/proto/golang/cart"
+	cart "github.com/DoubleRu1/gomall-microservices-proto/golang/cart"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
